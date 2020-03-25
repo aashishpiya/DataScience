@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+
+
 def missing_value(dataframe):
     """
     missing_value function takes in one arguement dataframe and return a tables as well as a plotly bar chart 
