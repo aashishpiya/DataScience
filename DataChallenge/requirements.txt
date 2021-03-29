@@ -155,7 +155,7 @@ pycrypto==2.6.1
 pycurl==7.43.0.3
 pyensae==1.3.825
 pyflakes==2.1.1
-Pygments==2.4.2
+Pygments==2.7.4
 pylint==2.4.2
 PyMeeus==0.3.6
 PyMySQL==0.9.3
